@@ -1,0 +1,20 @@
+{
+  "name": "deltachat-emoji",
+  "version": "0.0.0",
+  "description": "Emoji collection for DeltaChat",
+  "keywords": [
+    "emoji",
+    "deltachat",
+    "desktop"
+  ],
+  "author": {
+    "name": "DeltaChat Developers",
+    "email": "delta-systems@codespeak.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deltachat/deltachat-emoji.git"
+  },
+  "homepage": "https://github.com/deltachat/deltachat-emoji",
+  "license": "Public Domain"
+}
